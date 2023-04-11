@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Miłosz<br>Computer science student with a passion for web design and development. <br>I have a solid knowledge of HTML, CSS and JavaScript.<br><br>🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
+Hi, I'm Miłosz<br>🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
 
 
 ## 🌐 Socials:
