@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Miłosz<br>🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
+# 💫 Hi, I'm Miłosz
+##🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
 
 
 ## 🌐 Socials:
