@@ -1,6 +1,6 @@
 ## Hi, I'm Miłosz
-🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
-
+- 🌱 I'm currently practicing javascript, but I'm taking up react in the near future. :)
+- 🔭 I’m currently working on [this](https://github.com/Loniewski02/FM-calculator-app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/czarnianpotasu) 
