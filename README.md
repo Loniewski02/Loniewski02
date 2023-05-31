@@ -1,6 +1,6 @@
 ## Hi, I'm Miłosz
-- 🌱 I'm currently learning react
-- 🔭 I’m currently working on [this](https://github.com/Loniewski02/FM-clock-app)
+- 🌱 I'm currently learning [react](https://react.dev/) from [this](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course
+- 🔭 I’m currently working on ...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/czarnianpotasu) 
