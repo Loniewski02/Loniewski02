@@ -1,5 +1,5 @@
 ## Hi, I'm Miłosz
-- 🌱 I’m currently practicing my react.js skills
+- 🌱 I’m currently learning Next.js
 - 🔭 I’m currently working on ...
 
 ## 🌐 Socials:
